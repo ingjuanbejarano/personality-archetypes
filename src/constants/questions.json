@@ -1,0 +1,682 @@
+[
+  {
+    "description": "¿Cuál de las siguientes afirmaciones describe mejor tu comportamiento en situaciones sociales?",
+    "options": [
+      {
+        "label": "Me siento energizado al estar rodeado de personas y asumo un papel de liderazgo.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Prefiero estar al margen y no tomar la iniciativa en situaciones sociales.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo abordas las tareas y responsabilidades diarias?",
+    "options": [
+      {
+        "label": "Siempre cumplo con mis responsabilidades con determinación y disciplina.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Tiendo a dejar las cosas para más tarde o improvisar.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo reaccionas ante los desafíos inesperados?",
+    "options": [
+      {
+        "label": "Los veo como oportunidades para crecer y demostrar mi capacidad.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me siento incómodo ante lo inesperado y prefiero evitar riesgos.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te relacionas con los miembros de tu equipo?",
+    "options": [
+      {
+        "label": "Soy justo, pero prefiero centrarme en los resultados antes que en las relaciones personales.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Pongo las relaciones personales por encima de los resultados.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo manejas el estrés en situaciones difíciles?",
+    "options": [
+      {
+        "label": "Mantengo la calma y actúo de manera decisiva.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me siento abrumado fácilmente y me cuesta tomar decisiones.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te sientes en reuniones sociales o eventos grupales?",
+    "options": [
+      {
+        "label": "Disfruto profundamente de la interacción con los demás y busco conectar emocionalmente.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero las conversaciones más íntimas y me canso rápido en grandes grupos.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo gestionas tus compromisos con los demás?",
+    "options": [
+      {
+        "label": "Siempre estoy ahí para las personas que me importan, cumpliendo mis promesas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "A veces me cuesta cumplir con mis compromisos, especialmente si me siento emocionalmente abrumado.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo abordas la diversidad de opiniones y experiencias en tu vida?",
+    "options": [
+      {
+        "label": "Me gusta explorar diferentes perspectivas y aprender de ellas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero quedarme con lo que ya sé y me siento cómodo.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo sueles actuar en tus relaciones personales?",
+    "options": [
+      {
+        "label": "Soy empático y me esfuerzo por comprender y apoyar a los demás.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "A veces me cuesta entender o priorizar las necesidades emocionales de los demás.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo respondes a las críticas o conflictos en tus relaciones?",
+    "options": [
+      {
+        "label": "Trato de resolver las cosas con calma y comprensión.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Me siento herido fácilmente y me cuesta mantener la compostura.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo prefieres pasar tu tiempo libre?",
+    "options": [
+      {
+        "label": "Disfruto de la soledad, leyendo o reflexionando sobre ideas profundas.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Prefiero estar con otros, compartiendo ideas y discutiendo temas de interés.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te organizas en tu trabajo o estudios?",
+    "options": [
+      {
+        "label": "Soy meticuloso y prefiero planificar y analizar todo antes de actuar.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Me resulta difícil seguir un plan estricto y prefiero un enfoque más flexible.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo abordas nuevas ideas o conceptos?",
+    "options": [
+      {
+        "label": "Estoy siempre abierto a nuevas ideas y disfruto explorándolas en profundidad.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Prefiero mantenerme en lo que ya sé y me siento cómodo con lo conocido.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo ofreces ayuda a los demás?",
+    "options": [
+      {
+        "label": "Prefiero ayudar a los demás compartiendo conocimiento y orientándolos con sabiduría.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Prefiero ayudar en aspectos más prácticos o emocionales.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo manejas situaciones ambiguas o inciertas?",
+    "options": [
+      {
+        "label": "Me mantengo sereno y analizo la situación desde todas las perspectivas antes de actuar.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Me siento ansioso cuando las cosas no están claras y prefiero evitar la incertidumbre.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te sientes respecto al tiempo que pasas a solas?",
+    "options": [
+      {
+        "label": "Disfruto de estar solo y encuentro paz en la introspección y la meditación.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      },
+      {
+        "label": "Prefiero estar con otras personas y compartir mis pensamientos e ideas.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo abordas la realización de tus metas y sueños?",
+    "options": [
+      {
+        "label": "Estoy enfocado en cumplir mis metas, pero siempre asegurándome de que estén alineadas con mis valores espirituales.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      },
+      {
+        "label": "A veces me desvío de mis metas porque me falta claridad o motivación.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te acercas a lo desconocido o lo místico?",
+    "options": [
+      {
+        "label": "Estoy profundamente interesado en lo espiritual y lo místico, y busco siempre entender y conectar con lo trascendental.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      },
+      {
+        "label": "Me siento incómodo o escéptico ante lo desconocido y prefiero enfocarme en lo tangible.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo sueles interactuar con los demás en un contexto espiritual o de crecimiento personal?",
+    "options": [
+      {
+        "label": "Busco guiar y transformar a los demás, compartiendo mis experiencias y conocimientos espirituales.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      },
+      {
+        "label": "Prefiero mantener mi camino espiritual privado y no compartirlo abiertamente con los demás.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo manejas las crisis existenciales o los momentos de duda?",
+    "options": [
+      {
+        "label": "Me mantengo en paz y busco respuestas en mi interior, confiando en mi intuición.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      },
+      {
+        "label": "Me siento perturbado y me cuesta encontrar estabilidad durante esos momentos.",
+        "weight": { "archetype": "none", "value": 0 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo sueles abordar los problemas o desafíos en tu vida?",
+    "options": [
+      {
+        "label": "Los analizo detenidamente antes de actuar.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Los enfrento de inmediato, con determinación y un enfoque en encontrar una solución rápida.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Busco comprender las emociones involucradas antes de decidir.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Me guío por mi intuición y busco una solución que esté alineada con mis valores.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te ves a ti mismo en situaciones de alta presión?",
+    "options": [
+      {
+        "label": "Como alguien que puede manejar cualquier desafío con fuerza y decisión.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede mediar y resolver problemas con empatía.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede observar y comprender la situación desde múltiples perspectivas.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede transformar la situación mediante su visión y sabiduría.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Qué es lo que más te motiva en la vida?",
+    "options": [
+      {
+        "label": "Superar desafíos y alcanzar metas.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Crear y mantener relaciones significativas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Adquirir y compartir conocimiento.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Descubrir y cumplir un propósito superior.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te relacionas con los demás en un entorno de trabajo en equipo?",
+    "options": [
+      {
+        "label": "Asumo el liderazgo y me aseguro de que el equipo se mantenga enfocado en los resultados.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me concentro en fomentar un ambiente armonioso y en asegurar que todos se sientan incluidos y apoyados.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero tomar un rol de observador, analizando cómo funcionan las dinámicas del equipo.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Ofrezco una visión inspiradora y oriento al equipo hacia un propósito mayor.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo manejas los conflictos interpersonales?",
+    "options": [
+      {
+        "label": "Los enfrento directamente y busco una solución clara y rápida.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Trato de entender ambas partes y encontrar un compromiso que satisfaga a todos.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero observar y entender las causas profundas antes de intervenir.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Busco transformar el conflicto en una oportunidad de crecimiento y aprendizaje.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo tomas decisiones importantes?",
+    "options": [
+      {
+        "label": "Analizo cuidadosamente todas las opciones disponibles.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Considero cómo cada opción afectará a las personas involucradas y priorizo la armonía.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Me baso en datos y evidencia, pero también en el impacto emocional de la decisión.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me guío por mi intuición y por lo que siente más alineado con mis valores y propósitos.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te defines en relación con los demás?",
+    "options": [
+      {
+        "label": "Como un líder que guía a los demás hacia los resultados.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Como una persona empática y solidaria, que busca crear conexiones profundas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Como un observador que ofrece claridad y orientación basada en la comprensión.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Como un visionario que puede ver el potencial y el propósito en los demás.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Qué te da mayor satisfacción en tu vida?",
+    "options": [
+      {
+        "label": "Lograr objetivos y superar obstáculos.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Conectar emocionalmente con las personas y ayudarlas a sentirse comprendidas y valoradas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Adquirir conocimiento y compartirlo para el beneficio de todos.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Descubrir y seguir un camino de vida que esté en sintonía con un propósito mayor.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo sueles comportarte en relaciones personales cercanas?",
+    "options": [
+      {
+        "label": "Proporciono apoyo práctico y seguridad, asegurándome de que mis seres queridos estén protegidos.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me enfoco en comprender y satisfacer las necesidades emocionales de los demás.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero ayudar a los demás a comprenderse a sí mismos y a resolver sus propios problemas.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Guío a mis seres queridos hacia una mayor comprensión de sí mismos y su propósito en la vida.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te sientes cuando surge un conflicto en tus relaciones personales?",
+    "options": [
+      {
+        "label": "Prefiero enfrentar el conflicto de frente y resolverlo de manera decisiva.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me esfuerzo por mantener la paz y resolver el conflicto de manera que todas las partes se sientan escuchadas y comprendidas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Me alejo para reflexionar sobre la situación antes de intervenir.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Busco transformar el conflicto en una oportunidad para un mayor entendimiento y crecimiento espiritual.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cuál es tu enfoque principal cuando enfrentas un problema?",
+    "options": [
+      {
+        "label": "Actúo rápidamente, buscando una solución directa y efectiva.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Considero el impacto en las personas involucradas antes de tomar una decisión.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Analizo profundamente todas las variables y busco la mejor solución basada en los hechos.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Me guío por mi intuición y busco una solución que esté alineada con un propósito más elevado.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te ves en situaciones donde se requiere claridad y orientación?",
+    "options": [
+      {
+        "label": "Como alguien que puede tomar decisiones rápidas y efectivas.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Como alguien que proporciona apoyo emocional y comprensión.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede ofrecer una visión clara y objetiva basada en hechos.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede ofrecer una perspectiva espiritual y transformadora.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Qué es lo que más valoras en tu vida?",
+    "options": [
+      {
+        "label": "La capacidad de superar desafíos y alcanzar el éxito.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "La capacidad de crear y mantener relaciones afectivas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "La búsqueda del conocimiento y la sabiduría.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "La capacidad de transformar la vida y guiar a otros hacia un propósito superior.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo interactúas con otros en un entorno de aprendizaje o crecimiento?",
+    "options": [
+      {
+        "label": "Asumo el control y me aseguro de que se logren los objetivos de aprendizaje.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me enfoco en crear un ambiente de apoyo donde todos se sientan seguros para compartir sus ideas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero observar y ofrecer orientación basada en mi comprensión de los hechos y las teorías.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Inspiro a los demás con una visión profunda que les ayuda a conectar con su propósito.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo manejas los desacuerdos intelectuales o filosóficos?",
+    "options": [
+      {
+        "label": "Los enfrento de manera directa, buscando probar mi punto de vista.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Busco entender la perspectiva de la otra persona y encontrar un terreno común.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero discutir los hechos y las teorías para llegar a una conclusión lógica.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Busco transformar el desacuerdo en una oportunidad para un entendimiento espiritual más profundo.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo tomas decisiones que afectan a tu vida personal o profesional?",
+    "options": [
+      {
+        "label": "Considero rápidamente los pros y los contras y actúo en consecuencia.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me enfoco en cómo las decisiones afectarán a las relaciones y busco mantener la armonía.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Analizo todas las posibilidades y prefiero tomar decisiones basadas en un análisis lógico.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Me dejo guiar por mi intuición y por lo que está alineado con mi propósito espiritual.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo te ves en momentos de cambio o incertidumbre?",
+    "options": [
+      {
+        "label": "Como alguien que puede tomar decisiones rápidas y efectivas para superar el cambio.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede apoyar a otros emocionalmente durante tiempos difíciles.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede analizar la situación y ofrecer claridad.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Como alguien que puede ver el propósito detrás del cambio y guiar a otros a través de él.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Qué es lo que te impulsa en la vida?",
+    "options": [
+      {
+        "label": "Lograr resultados tangibles y superar obstáculos.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Crear y mantener relaciones significativas.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Buscar la verdad y compartir conocimiento.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Cumplir un propósito superior y guiar a otros hacia su realización.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo interactúas con los demás en un contexto espiritual o de desarrollo personal?",
+    "options": [
+      {
+        "label": "Actúo como líder, guiando a los demás hacia sus metas.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Proporciono apoyo emocional y animo a los demás en su camino.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Ofrezco claridad y dirección basada en el conocimiento y la sabiduría.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Inspiro a los demás a través de mi visión y los guío hacia un propósito mayor.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  },
+  {
+    "description": "¿Cómo respondes a los desafíos espirituales o filosóficos?",
+    "options": [
+      {
+        "label": "Los enfrento con fuerza, buscando una solución práctica.",
+        "weight": { "archetype": "warrior", "value": 1 }
+      },
+      {
+        "label": "Me esfuerzo por mantener la paz y el entendimiento mutuo.",
+        "weight": { "archetype": "lover", "value": 1 }
+      },
+      {
+        "label": "Prefiero analizar el conflicto desde todas las perspectivas antes de llegar a una conclusión.",
+        "weight": { "archetype": "sage", "value": 1 }
+      },
+      {
+        "label": "Busco transformar el desafío en una oportunidad para el crecimiento espiritual y personal, guiándome por mi intuición y propósito.",
+        "weight": { "archetype": "wizard", "value": 1 }
+      }
+    ]
+  }
+]

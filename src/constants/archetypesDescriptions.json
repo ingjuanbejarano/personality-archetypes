@@ -1,0 +1,74 @@
+{
+  "warrior": {
+    "title": "Guerrero",
+    "description": {
+      "introduction": "El Guerrero es el arquetipo de la acción, la fuerza y la disciplina. Es el individuo que se enfrenta a la vida con determinación y coraje, listo para superar cualquier obstáculo que se interponga en su camino. Este estilo de personalidad se caracteriza por una fuerte inclinación hacia la ejecución y la consecución de objetivos concretos, a menudo manifestando una gran inteligencia física y una capacidad excepcional para la disciplina y la organización. El Guerrero es extrovertido y abierto al cambio, adaptándose rápidamente a nuevas circunstancias con un enfoque resolutivo y directo. En su esencia, el Guerrero es un luchador incansable que siempre está preparado para 'matar al dragón' que simboliza los desafíos y las adversidades.",
+      "traits": {
+        "openness": "Aunque los Guerreros tienden a ser prácticos y enfocados en la realidad inmediata, también son lo suficientemente flexibles para adaptarse a nuevas ideas y cambios que puedan mejorar su rendimiento. Son innovadores cuando se trata de resolver problemas y abiertos a métodos que los ayuden a ganar sus 'batallas'.",
+        "responsibility": "Este es quizás el rasgo más destacado en los Guerreros. Su alta conciencia se refleja en su fuerte sentido del deber, organización y la determinación de completar tareas con excelencia. Son extremadamente disciplinados y confiables, siempre cumpliendo con sus compromisos.",
+        "extraversion": "Los Guerreros son generalmente extrovertidos, prefieren estar en el centro de la acción y no rehúyen de liderar. Les gusta interactuar con los demás, especialmente en contextos donde pueden ejercer su influencia y asegurar que las cosas se hagan correctamente.",
+        "agreeableness": "Si bien pueden parecer duros o dominantes, los Guerreros tienen un fuerte sentido de justicia y lealtad hacia aquellos que respetan. Son protectores con sus allegados y están dispuestos a luchar por aquellos que consideran dignos.",
+        "neuroticism": "Los Guerreros tienden a tener baja neuroticismo, lo que significa que son emocionalmente estables y capaces de manejar el estrés con eficacia. No suelen dejarse abrumar por las emociones y son resilientes ante las adversidades."
+      },
+      "strengths_weaknesses": {
+        "strengths": "Acción y Ejecución, Determinación, Liderazgo, Resiliencia.",
+        "weaknesses": "Impatiencia, Rigidez, Desconexión Emocional, Sobrecompetitividad."
+      },
+      "life_purpose": "El propósito de vida del Guerrero está centrado en la conquista y la superación personal. Se trata de demostrar su capacidad y valor enfrentando y superando desafíos. Los Guerreros buscan liderar, proteger y ganar, dejando una marca en el mundo a través de sus acciones decisivas. Para ellos, la vida es una serie de retos que deben ser conquistados, y su propósito radica en salir victoriosos de cada uno de ellos."
+    }
+  },
+  "lover": {
+    "title": "Amante",
+    "description": {
+      "introduction": "El Amante es un arquetipo que encarna la esencia de la inteligencia emocional, la pasión, la conexión profunda con los demás, la comunicación afectiva y el servicio desinteresado. Este estilo de personalidad se centra en el poder de las emociones y las relaciones, valorando la armonía, la empatía y el amor en todas sus formas. Los Amantes buscan crear y mantener conexiones auténticas, y su vida gira en torno a las relaciones interpersonales, la expresión de sus sentimientos y el deseo de ayudar y cuidar a los demás.",
+      "traits": {
+        "openness": "Los Amantes son altamente abiertos a nuevas experiencias, especialmente aquellas que implican explorar emociones, relaciones y formas de expresión creativa. Son curiosos por naturaleza y buscan comprender y experimentar la profundidad de las emociones humanas.",
+        "responsibility": "Aunque los Amantes valoran la conexión emocional, también son responsables y se preocupan por el bienestar de los demás. Son cuidadosos y atentos en sus interacciones, siempre buscando actuar con integridad y consideración.",
+        "extraversion": "Los Amantes tienden a ser extrovertidos, disfrutando de la compañía de los demás y buscando constantemente la interacción social. Les encanta estar rodeados de personas y prosperan en ambientes donde pueden expresar libremente sus emociones.",
+        "agreeableness": "La amabilidad es quizás el rasgo más dominante en los Amantes. Son empáticos, compasivos y siempre dispuestos a ayudar a los demás. Buscan evitar el conflicto y prefieren mantener la paz y la armonía en sus relaciones.",
+        "neuroticism": "Los Amantes pueden ser más susceptibles a las emociones intensas y, en ocasiones, pueden experimentar ansiedad o inseguridad en sus relaciones. Sin embargo, su capacidad para conectar y comunicar sus sentimientos les permite navegar por estas emociones con una mayor comprensión y empatía."
+      },
+      "strengths_weaknesses": {
+        "strengths": "Empatía y Conexión, Comunicación Afectiva, Pasión, Servicio y Cuidado.",
+        "weaknesses": "Dependencia Emocional, Evitación del Conflicto, Inseguridad, Falta de Límites."
+      },
+      "life_purpose": "El propósito de vida del Amante está profundamente enraizado en el amor y la conexión con los demás. Su misión es cultivar relaciones auténticas y significativas, actuando como un puente entre las personas y creando un entorno donde el amor y la comprensión puedan florecer. El Amante busca nutrir y cuidar, encontrando satisfacción en el bienestar de aquellos a quienes ama."
+    }
+  },
+  "sage": {
+    "title": "Sabio",
+    "description": {
+      "introduction": "El Sabio es un arquetipo que encarna la esencia de la inteligencia mental, el análisis crítico, la observación detallada, el aprendizaje continuo y el crecimiento personal e intelectual. Los Sabios encuentran su propósito en comprender el mundo y teorizar sobre él, buscando patrones, conocimientos y verdades universales que puedan aplicar para mejorar tanto su vida como la de los demás.",
+      "traits": {
+        "openness": "Los Sabios son altamente abiertos a nuevas ideas, conceptos y experiencias. Su curiosidad intelectual es insaciable, lo que los lleva a explorar constantemente nuevos campos del conocimiento y a teorizar sobre temas complejos.",
+        "responsibility": "El Sabio es muy responsable y consciente en su enfoque. Valora la precisión, la organización y la lógica en su pensamiento y trabajo, lo que les permite abordar problemas complejos con meticulosidad y cuidado.",
+        "extraversion": "Aunque algunos Sabios pueden ser más introvertidos, disfrutando de la soledad para reflexionar y estudiar, aquellos con mayor extroversión disfrutan compartiendo sus conocimientos y debatiendo ideas con otros.",
+        "agreeableness": "Los Sabios pueden ser amables y generosos con su conocimiento, siempre dispuestos a enseñar y guiar a otros. Sin embargo, su amabilidad puede ser más intelectual que emocional, prefiriendo ayudar a otros a través de la enseñanza y la claridad mental.",
+        "neuroticism": "Los Sabios tienden a ser emocionalmente estables, utilizando la lógica y el razonamiento para manejar el estrés y las emociones. Sin embargo, pueden volverse ansiosos si sienten que no tienen control sobre la información o si enfrentan incertidumbres que no pueden resolver rápidamente."
+      },
+      "strengths_weaknesses": {
+        "strengths": "Claridad Mental, Conocimiento y Sabiduría, Racionalidad, Mentoría y Enseñanza.",
+        "weaknesses": "Desconexión Emocional, Parálisis por Análisis, Arrogancia Intelectual, Rigidez Mental."
+      },
+      "life_purpose": "El propósito de vida del Sabio es comprender el mundo en su totalidad y utilizar ese conocimiento para resolver problemas, enseñar y guiar a otros. Los Sabios están impulsados por un deseo de descubrir verdades universales y aplicarlas para mejorar la vida de los demás."
+    }
+  },
+  "wizard": {
+    "title": "Mago",
+    "description": {
+      "introduction": "El Mago es un arquetipo que representa el desarrollo de la inteligencia espiritual, la capacidad de intuición, la imaginación y la búsqueda de un propósito profundo en la vida. Los Magos son individuos introvertidos que sienten una profunda conexión con el sentido de la vida y están orientados hacia la plenitud y la transformación.",
+      "traits": {
+        "openness": "Los Magos son altamente abiertos a nuevas experiencias y enfoques no convencionales. Son imaginativos, creativos y disfrutan explorando ideas abstractas y filosóficas.",
+        "responsibility": "Aunque los Magos pueden ser soñadores, también son conscientes y responsables en su búsqueda de un propósito. Son disciplinados en su búsqueda de la verdad y en la realización de su misión.",
+        "extraversion": "Los Magos tienden a ser introvertidos, prefiriendo la introspección y el tiempo en soledad para reflexionar y conectarse con su mundo interior.",
+        "agreeableness": "Los Magos son compasivos y empáticos, pero su amabilidad se manifiesta a través de su deseo de ayudar a otros a encontrar su camino espiritual y alcanzar la transformación personal.",
+        "neuroticism": "Los Magos tienden a ser emocionalmente estables, pero debido a su profunda conexión con lo espiritual, pueden ser propensos a experimentar crisis existenciales o períodos de duda e incertidumbre."
+      },
+      "strengths_weaknesses": {
+        "strengths": "Visión y Creatividad, Intuición y Sabiduría, Capacidad Transformadora, Conexión Espiritual.",
+        "weaknesses": "Desconexión de la Realidad, Arrogancia Espiritual, Evasión, Perfeccionismo Espiritual."
+      },
+      "life_purpose": "El propósito de vida del Mago es descubrir y cumplir un propósito superior, utilizando su intuición y sabiduría para transformar el mundo y guiar a otros hacia su propia realización espiritual."
+    }
+  }
+}
